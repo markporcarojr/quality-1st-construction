@@ -4,7 +4,7 @@
   },
   "name": "quality",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "devDependencies": {
     "bundler": "^0.8.0",
     "parcel": "^2.9.1",
