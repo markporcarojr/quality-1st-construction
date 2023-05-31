@@ -1,8 +1,7 @@
-:root {
-  --blue: #00274c;
-  --gold: #ffcb05;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
 }
-
 .bg-blue {
   background-color: var(--blue) !important;
 }
@@ -14,10 +13,6 @@
   color: #ffcb05;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
-* {
-  font-family: "Montserrat", sans-serif;
-}
 body {
   background: #f1fbff;
 }
