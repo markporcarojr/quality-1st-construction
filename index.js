@@ -10,6 +10,6 @@ function filter(array, callback) {
     return filtered;
 }
 filter([1, 2, 3, 4], function (num) {
-    console.log('hello')
+    console.log('Quality 1st')
     return num * num
 })
